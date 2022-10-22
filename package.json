@@ -5,7 +5,7 @@
   "main": "index.html",
   "scripts": {
     "dev": "npx tailwindcss -i ./src/css/input.css -o ./public/css/style.css --watch",
-    "start": "node ./public/index.html"
+    "start": "node index.html"
   },
   "keywords": [],
   "author": "",
